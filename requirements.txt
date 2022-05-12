@@ -1,0 +1,2 @@
+azure-storage-blob==12.11.0
+tabulate==0.8.9
